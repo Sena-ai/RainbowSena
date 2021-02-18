@@ -6,10 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/G3ZZING/Rainbow-Bot.git"
-  },
+  
   "keywords": [
     "rainbow",
     "discord",
@@ -18,11 +15,8 @@
     "rainbowbot",
     "G3ZZINGRainbow"
   ],
-  "author": "G3ZZING",
+  "author": "Sena",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/G3ZZING/Rainbow-Bot/issues"
-  },
   "homepage": "https://github.com/G3ZZING/Rainbow-Bot/blob/master/README.md",
   "dependencies": {
     "chalk": "^4.1.0",
