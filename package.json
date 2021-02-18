@@ -1,0 +1,35 @@
+{
+  "name": "rainbowbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G3ZZING/Rainbow-Bot.git"
+  },
+  "keywords": [
+    "rainbow",
+    "discord",
+    "bot",
+    "rainbowrole",
+    "rainbowbot",
+    "G3ZZINGRainbow"
+  ],
+  "author": "G3ZZING",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G3ZZING/Rainbow-Bot/issues"
+  },
+  "homepage": "https://github.com/G3ZZING/Rainbow-Bot/blob/master/README.md",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "os": "^0.1.1"
+  }
+}
