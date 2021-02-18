@@ -16,7 +16,6 @@
   ],
   "author": "Sena",
   "license": "MIT",
-  "homepage": "https://github.com/G3ZZING/Rainbow-Bot/blob/master/README.md",
   "dependencies": {
     "chalk": "^4.1.0",
     "colors": "^1.4.0",
